@@ -1,0 +1,14 @@
+name: ders04_tema_ve_stil
+description: Ders 04 - Tema ve Stil örnek uygulaması
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true

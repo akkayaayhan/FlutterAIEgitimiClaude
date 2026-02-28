@@ -1,0 +1,14 @@
+name: ders03_liste_gorunumleri
+description: Ders 03 - Liste Görünümleri örnek uygulaması
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
